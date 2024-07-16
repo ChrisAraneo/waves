@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ChrisAraneo/waves/issues"
   },
-  "homepage": "https://github.com/ChrisAraneo/waves#readme"
+  "homepage": "https://github.com/ChrisAraneo/waves#readme",
+  "dependencies": {
+    "bulma": "^1.0.1"
+  }
 }
