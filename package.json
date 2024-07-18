@@ -25,6 +25,7 @@
   "homepage": "https://github.com/ChrisAraneo/waves#readme",
   "dependencies": {
     "bulma": "0.9.4",
+    "perfectionist": "^2.4.0",
     "purgecss": "^6.0.0"
   },
   "devDependencies": {
