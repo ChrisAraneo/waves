@@ -4,6 +4,7 @@
   "description": "Customized Bulma framework",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.spec.ts\" \"src/**/*.json\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
