@@ -6,7 +6,8 @@
     "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
-    "noEmit": true
+    "noEmit": true,
+    "lib": ["ES2021.String"]
   },
   "lib": ["es2015"]
 }
