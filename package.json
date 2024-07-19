@@ -1,12 +1,11 @@
 {
-  "name": "waves-css",
+  "name": "bulma-sliced",
   "version": "0.0.1",
-  "description": "Customized Bulma framework",
+  "description": "Bulma v0.9.4 divided into multiple CSS files",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.spec.ts\" \"src/**/*.json\"",
-    "build": "tsup src/index.ts",
-    "start": "npm run build && node dist/index.js",
+    "build": "tsup src/index.ts && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
